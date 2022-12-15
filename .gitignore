@@ -210,3 +210,5 @@ fabric.properties
 .gradle
 build/**
 build
+/build
+/.gradle
